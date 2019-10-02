@@ -33,5 +33,4 @@ Navigation is done as below---
 
 
 
-API TEST- REST ASSURED
 
